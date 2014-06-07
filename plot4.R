@@ -1,4 +1,4 @@
-##this code draw a histgram of Global_active_power( household global minute-averaged active power (in kilowatt))
+##this code draw four pictures of  household's power consumption in one page
 ## the data to be used is from the dates 2007-02-01 and 2007-02-02.
 # setting the working directory
 setwd("D:/Exploratory Data Analysis/exdata-data-household_power_consumption")
